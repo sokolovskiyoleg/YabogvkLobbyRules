@@ -1,0 +1,8 @@
+name: YabogvkLobbyRules
+version: '${version}'
+main: org.yabogvk.yabogvklobbyrules.YabogvkLobbyRules
+api-version: '1.16'
+commands:
+  rules:
+    description: Показать правила или подтвердить их прочтение
+    usage: /<command> или /<command> accept
